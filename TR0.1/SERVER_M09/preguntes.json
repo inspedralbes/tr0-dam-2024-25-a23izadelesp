@@ -1,0 +1,211 @@
+{
+  "preguntes": [
+    {
+      "pregunta": "Quina marca utilitza el lema 'Just Do It'?",
+      "resposta_correcta": [
+        {
+          "resposta": "Nike",
+          "imatge": "https://www.brandemia.org/wp-content/uploads/2011/09/logo_nike_principal.jpg"
+        }
+      ],
+      "respostes_incorrectes": [
+        {
+          "resposta": "Adidas",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/2/20/Adidas_Logo.svg"
+        },
+        {
+          "resposta": "Puma",
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXX8JGkCeolJp3ZIJVnkel0S05fGTiXZGL0Q&s"
+        },
+        {
+          "resposta": "Under Armour",
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2viFxbPs8yzPv_xZjjqSQwA6R36wEI_kbXA&s"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina marca utilitza el lema 'Think Different'?",
+      "resposta_correcta": [
+        {
+          "resposta": "Apple",
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbOfQZ-LhkRa40zhwlae_IEqaqM1iFR21HAw&s"
+        }
+      ],
+      "respostes_incorrectes": [
+        {
+          "resposta": "Microsoft",
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1Q2lh7aweiNuE3LObL2pp_kWhtffSJckKw&s"
+        },
+        {
+          "resposta": "Samsung",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/2560px-Samsung_Logo.svg.png"
+        },
+        {
+          "resposta": "Google",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina marca utilitza el lema 'Because You're Worth It'?",
+      "resposta_correcta": [
+        {
+          "resposta": "L'Oréal",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/L%27Or%C3%A9al_logo.svg/1200px-L%27Or%C3%A9al_logo.svg.png"
+        }
+      ],
+      "respostes_incorrectes": [
+        {
+          "resposta": "Maybelline",
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnQz3ZXKowXuIHa7BECcf3eHbGvRDsqY9tXQ&s"
+        },
+        {
+          "resposta": "Estée Lauder",
+          "imatge": "https://logos-world.net/wp-content/uploads/2020/12/Estee-Lauder-Logo.png"
+        },
+        {
+          "resposta": "Revlon",
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr2SxSrL7kMUFHA8SnaqkmBuv-SzzIdQmMiw&s"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina marca utilitza el lema 'Have a Break, Have a Kit Kat'?",
+      "resposta_correcta": [
+        {
+          "resposta": "Kit Kat",
+          "imatge": "https://nestlefamilyclub.es/sites/default/files/styles/480x380/public/2019-12/KIT-KAT---LOGO.png?itok=3H76ybAO"
+        }
+      ],
+      "respostes_incorrectes": [
+        {
+          "resposta": "Snickers",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Snickers_logo_%282000-2005%29.svg/2560px-Snickers_logo_%282000-2005%29.svg.png"
+        },
+        {
+          "resposta": "Twix",
+          "imatge": "https://logos-world.net/wp-content/uploads/2023/03/Twix-Logo.jpg"
+        },
+        {
+          "resposta": "Mars",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mars_Logo.svg/2560px-Mars_Logo.svg.png"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina marca utilitza el lema 'The Ultimate Driving Machine'?",
+      "resposta_correcta": [
+        {
+          "resposta": "BMW",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/2048px-BMW.svg.png"
+        }
+      ],
+      "respostes_incorrectes": [
+        {
+          "resposta": "Mercedes-Benz",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mercedes-Logo.svg/2048px-Mercedes-Logo.svg.png"
+        },
+        {
+          "resposta": "Audi",
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTfDlSCZiDzdBTYSE8IY1bspO30QaBg3bUDA&s"
+        },
+        {
+          "resposta": "Lexus",
+          "imatge": "https://cdn.worldvectorlogo.com/logos/lexus.svg"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina marca utilitza el lema 'Melts in Your Mouth, Not in Your Hands'?",
+      "resposta_correcta": [
+        {
+          "resposta": "M&M's",
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4cbludi1BMLruevp0WgVEurf-n54awU1G-g&s"
+        }
+      ],
+      "respostes_incorrectes": [
+        {
+          "resposta": "Skittles",
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfik55DwC1f266glU3Pr_dNG2yVgRb1QFmw&s"
+        },
+        {
+          "resposta": "Jelly Beans",
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN09bP4RtrmchZ2rXPhUmXUkMh1xg1JFZvrg&s"
+        },
+        {
+          "resposta": "Reese's",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Reese%27s_logo.svg/1280px-Reese%27s_logo.svg.png"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina marca utilitza el lema 'The Quicker Picker Upper'?",
+      "resposta_correcta": [
+        {
+          "resposta": "Bounty",
+          "imatge": "https://logos-world.net/wp-content/uploads/2022/05/Bounty-Logo.png"
+        }
+      ],
+      "respostes_incorrectes": [
+        {
+          "resposta": "Charmin",
+          "imatge": "https://upload.wikimedia.org/wikipedia/en/b/b9/Charmin.png"
+        },
+        {
+          "resposta": "Kleenex",
+          "imatge": "https://cdn.worldvectorlogo.com/logos/kleenex-logo-new-1.svg"
+        },
+        {
+          "resposta": "Scott",
+          "imatge": "https://cdn.worldvectorlogo.com/logos/scott-1.svg"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina marca utilitza el lema 'We Try Harder'?",
+      "resposta_correcta": [
+        {
+          "resposta": "Hertz",
+          "imatge": "data:image/png;base64,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"
+        }
+      ],
+      "respostes_incorrectes": [
+        {
+          "resposta": "Avis",
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_WlbI3mQeRSqWJgdxYHV2vJ7ueegJb9Iy3Q&s"
+        },
+        {
+          "resposta": "Enterprise",
+          "imatge": "https://i.pinimg.com/originals/a8/d4/b5/a8d4b5e3e3049f872816ead4dfc25b31.png"
+        },
+        {
+          "resposta": "Budget",
+          "imatge": "https://www.innsbruck.info/uploads/tx_webxbookingemo/ImageStorage/Budget-Log_480bfcc43f7c134efe8042089b78597e.jpg"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina marca utilitza el lema 'Can You Hear Me Now? Good.'?",
+      "resposta_correcta": [
+        {
+          "resposta": "Verizon",
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkqrPIUIDM2YpxcDlqd1Pw7neawQdEJESvhQ&s"
+        }
+      ],
+      "respostes_incorrectes": [
+        {
+          "resposta": "AT&T",
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzxQ1mhnTf01LHVVdvTSoYbcEtMnoy74DlMw&s"
+        },
+        {
+          "resposta": "Sprint",
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sprint_Corporation_Logo.svg"
+        },
+        {
+          "resposta": "T-Mobile",
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPn-L0rSNPnYi8YwnAfREEFZXPVdln-Ju9AQ&s"
+        }
+      ]
+    }
+  ]
+}
